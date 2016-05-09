@@ -1,5 +1,1 @@
-*$object
-*$image
-*$object-subrequest
-*$script
-*$stylesheet
+*$object,image,script,stylesheet
